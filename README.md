@@ -1,2 +1,2 @@
 # Logistic-Regression-Model
-2D-Logistic-Regression-Model
+3D-Logistic-Regression-Model
